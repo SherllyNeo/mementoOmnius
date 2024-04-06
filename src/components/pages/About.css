@@ -1,0 +1,28 @@
+
+* {
+  box-sizing: border-box;
+}
+
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+/* Create two equal columns that float next to each other */
+.column {
+  float: left;
+  width: 100%;
+  padding: 10px;
+  padding-left:70px;
+  padding-right: 70px;
+  margin:30px;
+  margin-right:30px;
+  margin-bottom: 10px;
+  line-height:3;
+  flex-direction: column;
+}
+
+

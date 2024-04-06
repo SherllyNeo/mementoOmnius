@@ -1,0 +1,48 @@
+.contactDetail {
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 2em;
+  background-color: transparent;
+  color: #fff;
+  
+}
+
+button {
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+  background-color: transparent;
+  border: transparent;
+  
+}
+
+
+
+
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+}
+
+.contact-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: transparent;
+}
+
+
+.contact {
+  background-image: url('../../images/home.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+body {background-color: transparent}
+
